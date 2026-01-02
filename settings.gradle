@@ -1,0 +1,2 @@
+rootProject.name = 'springboot-microservices-demo-root'
+include 'springboot-microservices-resiliency-patterns-demo'
