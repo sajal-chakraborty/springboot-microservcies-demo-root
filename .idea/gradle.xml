@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/springboot-microservices-resiliency-patterns-demo" />
+            <option value="$PROJECT_DIR$/springboot-microservices-resiliency-patterns-demo/resiliency-order-service" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -1,1 +1,2 @@
 rootProject.name = 'springboot-microservices-demo-root'
+include 'resiliency-order-service'
